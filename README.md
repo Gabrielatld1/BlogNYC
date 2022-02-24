@@ -1,2 +1,2 @@
-# meusprojetos
-Site simples com HTML e CSS
+# BlogNYC
+Simple NYC blog using HTML and CSS.
